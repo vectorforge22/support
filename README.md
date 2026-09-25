@@ -12,7 +12,7 @@ Support is always optional. Using my projects, reporting issues, contributing co
 
 The easiest way to support my open-source work is through **GitHub Sponsors**.
 
-**→ [Sponsor me on GitHub](YOUR_GITHUB_SPONSORS_URL)**
+**→ [Sponsor me on GitHub](https://github.com/sponsors/vectorforge22)**
 
 One-time and recurring sponsorships are welcome.
 
@@ -132,6 +132,5 @@ Thanks for taking an interest in my work.
 
 ---
 
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-**Website:** [YOUR_DOMAIN](https://YOUR_DOMAIN)  
-**Sponsor:** [GitHub Sponsors](YOUR_GITHUB_SPONSORS_URL)
+**GitHub:** [@vectorforge22](https://github.com/vectorforge22)  
+**Sponsor:** [GitHub Sponsors](https://github.com/sponsors/vectorforge22)
